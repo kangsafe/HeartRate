@@ -1,0 +1,93 @@
+[
+    {
+        "outputFile": "E:\\Workspace\\HeartRate\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 39,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 52,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "E:\\Workspace\\HeartRate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
